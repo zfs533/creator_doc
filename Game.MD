@@ -1,6 +1,7 @@
 <h1 align="center">cocoscreator Game 资料大全</h1>
 
-
+### Creator开源游戏、插件、教程、视频汇总
+- [点击前往](https://forum.cocos.org/t/creator/44782)
 # Game
 - [参考地址](https://forum.cocos.org/t/cocos-creator/87522)
 ### 摘星星进阶版教程
@@ -31,3 +32,13 @@
 ### 实现微信小游戏排行榜
 - [点击前往](https://mp.weixin.qq.com/s?__biz=MzI4ODEyNTU5Mw==&mid=2651588701&idx=1&sn=4d14e4b20352e9719bf13f4879dedabf&chksm=f03b8fabc74c06bd60746fb9c39af5394f1038ebd5490dcee765538f0b956eb31bba96a1cf79&token=1746023008&lang=zh_CN#rd)
 
+
+### Creator在微信小游戏做大型RPG的解决方案，有在线案例
+- [点击前往](https://forum.cocos.org/t/creator-rpg/91910)
+
+
+### Creator版梦幻西游在线案例，可在微信小游戏运行
+- [点击前往](https://forum.cocos.org/t/creator/93572)
+
+### CocosCreator推箱子源码（V2.0.8）
+- [点击前往](https://mp.weixin.qq.com/s/wm6QtmxEVCi79rCm8rHANg)
