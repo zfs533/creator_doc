@@ -55,3 +55,7 @@
 - - - 3:纹理开启 Packable 选项参与动态合图后无法使用自定义 Shader，因为动态合图会修改原始贴图的 UV 坐标。
 
 - - - 4:使用 Cache Mode 的 BITMAP 模式需要注意内存情况，CHAR 模式需要注意文本内容是否多且不重复。
+
+## 六、webbp资源
+- 将较大的背景图(jpg)转换成webbp格式的资源，大幅降低资源大小
+- （通过script_tools中的 webbp打包脚本可实现）
